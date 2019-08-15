@@ -423,7 +423,7 @@ ul {
 
 .lab-card {
 	position: relative;
-	margin-top: -50px;
+	margin-top: 300px; /*editado*/
 	padding: 50px 25px;
 	text-align: center;
 	background: #f5faf8;
@@ -484,7 +484,7 @@ ul {
 	-webkit-transform: translateY(50%);
 	    -ms-transform: translateY(50%);
 	        transform: translateY(50%);
-	margin-top: -90px;
+	margin-top: 0px;
 }
 
 .intro-video img {
@@ -513,9 +513,11 @@ ul {
   Testimonial section
 --------------------------*/
 .testimonial-section {
-	padding-top: 320px;
+
 	background: #220c3b;
 	position: relative;
+	padding-bottom: 30px;
+	
 }
 
 .test-overlay {
